@@ -1,0 +1,111 @@
+body{
+    width: 100%;
+}
+
+.head1{
+    background-color: #434242;
+    height: 420px
+
+}
+.nav1 {
+      list-style-type: none;
+      float: left;
+      padding: 5px;
+      color: #ffffff;
+      float: left;
+      font-size: 10px;
+      text-align: left;
+
+}
+
+.nav1 li{
+    list-style-type: none;
+    float: left;
+    padding: 3px;
+    margin-left: 22px;
+
+}
+.nav1{
+    padding-left: 324px;
+}
+.socmed{
+
+}
+.head2{
+    color: #fff;
+    padding-top: 55px;
+    margin-left:
+}
+.headwords2a{
+    margin-left: 388px;
+    font-size: 35px
+}
+.head2b{
+    font-size: 13px;
+    padding-left: 415px;
+}
+.head3 {
+    padding-left: 540px;
+    padding-top: 17px;
+}
+.exploremore{
+    width: 140px;
+    height: 29px;
+    border-radius: 5px;
+    font-size: 10px;
+    box-shadow: 1px;
+    text-shadow: 1px;
+    background-color: #ffffff;
+}
+.side1a{
+    width: 50%;
+    float: left;
+}
+.highproj1{
+    margin-left: 190;
+    padding-top: 45
+}
+.paragraph1{
+    font-size: 14px;
+}
+.highptxt{
+    font-size: 28px;
+    padding-bottom: 64
+}
+.blcpg{
+    background-color: #2e2c2c;
+    height: 185px;
+}
+.black2{
+    background-color: #121212;
+    display: inline-block;
+    height: 185px;
+    margin-left: 245px;
+    width: 190
+
+}
+.discovermore{
+    width: 140px;
+    height: 29px;
+    border-radius: 5px;
+    font-size: 10px;
+    box-shadow: 1px;
+    text-shadow: 1px;
+    background-color: #ff0000;
+    padding-left: 2px;
+    color: #ffffff
+}
+
+.discmore{
+    margin-left: 138px;
+    margin-top: 35px;
+
+}
+.discmoretxt{
+    font-size: 12px;
+
+}
+.sideb{
+    float: right;
+}
+
