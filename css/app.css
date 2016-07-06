@@ -44,3 +44,16 @@ nav {
     color: rgb(59, 47, 51);
     transition: color 1s, background-color 1s;
 }
+
+/*window*/
+
+.blocks {
+    padding: 0;
+}
+.site,
+.discover {
+    padding-left: 30%;
+}
+.site h2 {
+    text-transform: uppercase;
+}
