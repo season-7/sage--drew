@@ -180,3 +180,21 @@ nav {
     text-align: center;
     padding: 7% 0;
 }
+
+/*client row*/
+
+.client {
+    text-align: center;
+    background-color: #362B2F;
+}
+.client li {
+    display: inline;
+    padding: 2%;
+}
+.client blockquote {
+    color: floralwhite;
+}
+#ceo {
+    color: #8F8585;
+    text-transform: uppercase;
+}
