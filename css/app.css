@@ -173,3 +173,10 @@ nav {
     border: 1px solid #362B2F;
     transition: color 1s, background-color 1s;
 }
+#more {
+    margin-top: 40%;
+}
+.more {
+    text-align: center;
+    padding: 7% 0;
+}
