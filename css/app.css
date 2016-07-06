@@ -156,3 +156,20 @@ nav {
     background-color: #362B2F;
     margin: auto;
 }
+.boxunder {
+    color: red;
+}
+.inside {
+    padding: 2% 3%;
+    background-color: rgb(59, 47, 51);
+    color: floralwhite;
+    border: 1px solid #362B2F;
+    transition: color 1s, background-color 1s;
+}
+.inside:hover {
+    padding: 2% 3%;
+    color: #362B2F;
+    background-color: floralwhite;
+    border: 1px solid #362B2F;
+    transition: color 1s, background-color 1s;
+}
