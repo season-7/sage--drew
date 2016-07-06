@@ -30,3 +30,17 @@ nav {
 .banner p {
     color: #8F8585;
 }
+#explore {
+    background-color: rgb(59, 47, 51);
+    color: floralwhite;
+    padding: 1% 2%;
+    text-transform: uppercase;
+    transition: color 1s, background-color 1s;
+}
+#explore:hover {
+    background-color: floralwhite;
+    padding: 1% 2%;
+    text-transform: uppercase;
+    color: rgb(59, 47, 51);
+    transition: color 1s, background-color 1s;
+}
