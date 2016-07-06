@@ -211,3 +211,29 @@ nav {
 .links ul {
     list-style: none;
 }
+#fb {
+    background-color: #625A5C;
+    color: floralwhite;
+    text-align: center;
+}
+#twt {
+    background-color: #484043;
+    color: floralwhite;
+    text-align: center;
+}
+#ggl {
+    background-color: #3B2F33;
+    color: floralwhite;
+    text-align: center;
+}
+#pts {
+    background-color: #726D6E;
+    color: floralwhite;
+    text-align: center;
+}
+
+/*footer*/
+
+footer {
+    text-align: center;
+}
