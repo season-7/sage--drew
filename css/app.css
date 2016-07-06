@@ -125,3 +125,17 @@ nav {
 .services h1 {
     text-transform: uppercase;
 }
+
+/*action area*/
+
+.action_area {
+    text-align: center;
+    background-color: #362B2F;
+    color: floralwhite;
+    padding: 2% 0;
+}
+.action_area h2,
+.action_area a {
+    text-transform: uppercase;
+    color: floralwhite;
+}
