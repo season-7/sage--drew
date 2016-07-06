@@ -198,3 +198,16 @@ nav {
     color: #8F8585;
     text-transform: uppercase;
 }
+
+/*last*/
+
+.connect h1,
+.connect p {
+    padding-left: 30%;
+}
+.connect h1 {
+    text-transform: uppercase;
+}
+.links ul {
+    list-style: none;
+}
