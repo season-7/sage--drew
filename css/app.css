@@ -57,3 +57,35 @@ nav {
 .site h2 {
     text-transform: uppercase;
 }
+#disc {
+    background-color: #FF0011;
+    padding: 2% 3%;
+    text-transform: uppercase;
+    color: floralwhite;
+    transition: color 1s, background-color 1s;
+}
+#disc:hover {
+    background-color: floralwhite;
+    padding: 2% 3%;
+    text-transform: uppercase;
+    color: rgb(59, 47, 51);
+    transition: color 1s, background-color 1s;
+}
+.discover {
+    margin: 10% 0 10%;
+}
+.infinity {
+    padding: 20% 0 5%;
+    background-color: #FF0011;
+    background-size: cover;
+}
+.infinity h1,
+.infinity h3 {
+    text-transform: uppercase;
+}
+.brown {
+    background-color: #362B2F;
+    padding: 10%;
+    width: 100%;
+    height: 100%;
+}
