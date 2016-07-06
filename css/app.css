@@ -110,3 +110,18 @@ nav {
 .h_icons h2 {
     color: red;
 }
+
+/*services*/
+
+.services ul {
+    list-style: none;
+}
+.services h3 {
+    text-transform: uppercase;
+}
+.row_f {
+    margin-bottom: 10%;
+}
+.services h1 {
+    text-transform: uppercase;
+}
