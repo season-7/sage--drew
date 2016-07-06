@@ -12,3 +12,21 @@ nav li {
 .nav_links {
     margin: 0 0;
 }
+
+/*banner*/
+
+.banner,
+nav {
+    background-color: rgb(59, 47, 51);
+}
+.banner {
+    text-align: center;
+    padding-bottom: 10%;
+}
+.banner h1 {
+    text-transform: uppercase;
+    color: floralwhite;
+}
+.banner p {
+    color: #8F8585;
+}
