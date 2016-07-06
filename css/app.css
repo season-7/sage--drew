@@ -1,1 +1,14 @@
+/*body*/
 
+.row {
+    max-width: 1350px;
+}
+
+/*navigation*/
+
+nav li {
+    display: inline;
+}
+.nav_links {
+    margin: 0 0;
+}
